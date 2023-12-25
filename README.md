@@ -1,7 +1,7 @@
 # projet-gestion-d-association-IIT
 
 # Mon PowerPoint :
-https://github.com/ChrysDavid/projet-gestion-d-association-IIT/blob/main/Presentation%20de%20mon%20projet%20python.pptx
+https://docs.google.com/presentation/d/1O1qvdLeUqwnQHkHAkymzBBkoQGgzGPz5/edit?usp=sharing&ouid=111251346335541251573&rtpof=true&sd=true
 
 # Mon diagramme de cas d'utilisation:
 https://drive.google.com/file/d/1OaqUEIFModkHETzh-AbKR2gzvVkmnovB/view?usp=sharing
@@ -17,7 +17,6 @@ https://drive.google.com/file/d/1fLant7h-P5smAFdHMPLbzZCxXoQ8Rrl1/view?usp=shari
 
 # Mes Wireframes:
 https://drive.google.com/file/d/15_KvPwFAXEzvx1uOHxd-XRc_Nf_Heiq5/view?usp=sharing
-
 
 # Mon tableau de bord trello:
 https://trello.com/invite/b/rI1rTfRv/ATTIde6ab9a6aa7994deda144bb052d4912aBFBA8CF4/python-gestion-dapplication
