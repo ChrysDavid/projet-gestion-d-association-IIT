@@ -11,3 +11,12 @@ https://drive.google.com/file/d/1z7L4pDTFPYT1EWzIjVBogXi79GkRt_01/view?usp=shari
 
 # Mon diagramme de class:
 https://drive.google.com/file/d/1gfJEty3c5Oex817DmMUKZECDYn8Vc1Q_/view?usp=sharing
+
+# Ma User Stories:
+https://drive.google.com/file/d/1fLant7h-P5smAFdHMPLbzZCxXoQ8Rrl1/view?usp=sharing
+
+# Mes Wireframes
+
+
+# Mon tableau de bord trello:
+https://trello.com/invite/b/rI1rTfRv/ATTIde6ab9a6aa7994deda144bb052d4912aBFBA8CF4/python-gestion-dapplication
